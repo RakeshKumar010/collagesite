@@ -1,0 +1,40 @@
+*{
+    background-image: url('/files/image/back2.webp');
+}
+h1{
+    color: azure;
+}
+.first{
+    background-color: aqua;
+    width:30%;
+    float: left;
+    text-align: center;
+}
+.first img{
+    width:49%;
+    border-radius:50%;
+    
+}
+.second{
+    background-color: aqua;
+    width:30%;
+    float: right;
+    text-align: center;
+}
+.second img{
+    width:49%;
+    border-radius:50%;
+    
+}
+.third{
+    background-color: aqua;
+    width:37%;
+   margin-left: 425px;
+   height: 337px;
+    text-align: center;
+}
+.third img{
+    width:40%;
+    border-radius:50%;
+    
+}

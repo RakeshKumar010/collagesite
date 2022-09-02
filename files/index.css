@@ -1,0 +1,84 @@
+*{
+  background-image: url('/files/image/back.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#header{
+background-color: #5c4699;
+border-radius: 40px 40px 0px 0px;
+background-image: url('/files/image/back2.webp');
+background-repeat: no-repeat;
+background-size: cover;
+
+    
+}
+#header h1{
+  color:#e4e4e4;
+  float: right;
+  margin-top: 25px;
+  margin-right: 550px;
+  background: none;
+  /* margin: auto; */
+  
+  
+}
+#header img{
+  width: 6%;
+  border-radius: 50%;
+  margin-left: 20px;
+  padding: 5px;
+  
+ 
+  
+  
+}
+
+
+
+
+
+/* manu */
+ul {
+  background-image: url('/files/image/back2.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    background-color: cyan;
+    position:fixed;
+    height: 80%;
+    border-radius: 0px 0px 500px 500px;
+    
+   
+   }
+   li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+  color: aliceblue;
+    }
+    li a.active {
+      background: none;
+  background-color: #04AA6D;
+  color: white;
+}
+li a:hover:not(.active) {
+  
+  background-color: #555;
+  color: rgb(10, 114, 233);
+}
+#text{
+  margin-left: 20%;
+  margin-right: 5%;
+  color: aliceblue;
+  
+ 
+}
+#text h1{
+  color: #04AA6D;
+}
